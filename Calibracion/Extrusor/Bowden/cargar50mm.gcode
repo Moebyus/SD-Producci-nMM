@@ -1,0 +1,7 @@
+M117 Calentando
+M104 S210
+M117 Extrusiooon!
+G92 E0
+G0 E50 F3000
+G92 E0 
+M117 Listo!

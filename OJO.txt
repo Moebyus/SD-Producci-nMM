@@ -1,0 +1,9 @@
+No poner ningun fichero en la raiz de la tarjeta!
+
+Ficheros de pruebas/un solo uso a 'pruebas'
+
+Encargos/producciones a la carpeta 'Encargos'
+
+Si no se especifica lo contrario los gcodes son para ABS y filamento de 3
+
+Para imprimir en 1.75 se puede usar el adaptador 3->1,75 que hay en calibracion.

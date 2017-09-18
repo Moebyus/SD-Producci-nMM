@@ -1,0 +1,8 @@
+M117 Calentando
+M104 S210
+M117 Retraccioooon!
+G92 E0
+G0 E-200 F3000
+G0 E-400 F3000
+G92 E0 
+M117 Listo!
